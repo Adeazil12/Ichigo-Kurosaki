@@ -1,8 +1,8 @@
 /**
-   * Made By Fandyyy 🕴️
-   * Subscribe FBOTZ YT
-   * Follow https://instagram.com/_nzrlafndi
-   * Follow https://github.com/FBOTZ-YT
+   * Made By Ademods🕴️
+   * Subscribe Ademods
+   * Follow https://instagram.com/Ademods
+   * Follow https://github.com/Ademods2
 */
 
 //Module 
@@ -220,7 +220,7 @@ case 'menu': case 'help': case '?': {
 ╚════════
   `
   let but = [
-  {urlButton: {displayText: 'Source Code ♨️',url: 'https://github.com/NzrlAfndi/Ichigo-Kurosaki'}}, 
+  {urlButton: {displayText: 'Source Code ♨️',url: 'https://github.com/Ademods2'}}, 
   {urlButton: {displayText: 'Website 🔗',url: 'https://linktr.ee/nzrlafndi'}}, 
   {"quickReplyButton": {"displayText": "Donasi 🗂️","id": `donasi`},},
   {"quickReplyButton": {"displayText": "Owner 👦","id": "owner"},},
